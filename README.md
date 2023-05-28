@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **Rust, WebAssembly, and Go.**
 
-- 👯 I’m looking to collaborate on **React, Node, and React Native projects.**
+- 👯 I’m looking to collaborate on **React, React Native, and Node projects.**
 
 - 💬 Ask me about **React, React Native, and Node.**
 
-- 📫 How to reach me **nicholaskjeon@gmail.com**
+- 📫 How to reach me **hello@nicholasjeon.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
